@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 ## Practicing Analysis
 [Data-1-1-3-StarterBook_Statistics](https://github.com/marczuka/kickstarter-analysis/blob/master/Data-1-1-3-StarterBook_Statistics.xlsx)
-is an Excel file containing practice part of the Analysis from Module 1.
+is an Excel file containing practice part of the Analysis from Module 1. It contains the analysis we've based on the tutorial parts 1.0.1-1.5.4.
 
 ## Challenge Analysis
 [Data-1-1-3-StarterBook_Challenge](https://github.com/marczuka/kickstarter-analysis/blob/master/Data-1-1-3-StarterBook_Challenge.xlsx) is an Excel file containing the Module 1 Challenge Ananlysis of the Kickstarter Data.
